@@ -1,0 +1,15 @@
+1.IAM (Security)
+2.S3 (Storage)
+3.EC2 (Live Project deployments)
+4.VPC (Private cloud)
+5.EBS (Volume)
+6.CLOUD WATCH (Monitoring)
+7.LAMBDA (Serverless Computing)
+8.CLOUD BUILD SERVICES (AWS Code Pipeline, Code build, Code Deploy)
+9.AWS CONFIGURATION
+10.BILLING & COST MANAGEMENT
+11.AWS KMS
+12.CLOUD TRAIL
+13.AWS KUBERNETS (EKS)
+14.FORGATE, ECS (Container Orchistraion)
+15.ELK (ELASTIC SEARCH)
